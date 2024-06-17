@@ -1,0 +1,39 @@
+ {"filters": [
+                    {
+                        "id": "shipping_time_highlighted_sameday",
+                        "name": "Tiempo de entrega",
+                        "type": "highlighted",
+                        "values": [
+                            {
+                                "id": "sameday",
+                                "name": "Llegan hoy",
+                                "url": "https://listado.mercadolibre.com.co/zapatillas_TiempoEnvio_EnElDia_NoIndex_True#applied_filter_id%3Dshipping_time_highlighted_sameday%26applied_filter_name%3DTiempo+de+entrega%26applied_filter_order%3D1%26applied_value_id%3Dsameday%26applied_value_name%3DLlegan+hoy%26applied_value_order%3D1%26applied_value_results%3D33%26is_custom%3Dfalse",
+                                "results": "(33)",
+                                "title": {
+                                    "text": "Llegan hoy",
+                                    "icons": []
+                                },
+                                "switch": {
+                                    "is_on": false
+                                }
+                            }
+                        ],
+                        "fragment": "applied_filter_id%3Dshipping_time_highlighted_sameday%26applied_filter_name%3DTiempo+de+entrega%26applied_filter_order%3D1%26applied_value_id%3DUNKNOWN_VALUE_ID%26applied_value_name%3DUNKNOWN_APPLIED_VALUE_ID%26applied_value_order%3D2%26applied_value_results%3DUNKNOWN_RESULTS%26is_custom%3Dtrue",
+                        "expanded_values": [
+                            {
+                                "id": "sameday",
+                                "name": "Llegan hoy",
+                                "url": "https://listado.mercadolibre.com.co/zapatillas_TiempoEnvio_EnElDia_NoIndex_True#applied_filter_id%3Dshipping_time_highlighted_sameday%26applied_filter_name%3DTiempo+de+entrega%26applied_filter_order%3D1%26applied_value_id%3Dsameday%26applied_value_name%3DLlegan+hoy%26applied_value_order%3D1%26applied_value_results%3D33%26is_custom%3Dfalse",
+                                "results": "(33)",
+                                "title": {
+                                    "text": "Llegan hoy",
+                                    "icons": []
+                                },
+                                "switch": {
+                                    "is_on": false
+                                }
+                            }
+                        ],
+                        "show_modal": false
+                    }
+ ]}
